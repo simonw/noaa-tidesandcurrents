@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "9410025",
+    "name": "ONEONTA SLOUGH,TIJUANA EST.",
+    "lat": 32.5717,
+    "lng": -117.12
+  },
+  {
+    "id": "9410032",
+    "name": "WILSON COVE, SAN CLEMENTE IS.",
+    "lat": 33.005,
+    "lng": -118.557
+  },
+  {
+    "id": "9410079",
+    "name": "AVALON, SANTA CATALINA ISLAND",
+    "lat": 33.345,
+    "lng": -118.325
+  },
+  {
+    "id": "9410120",
+    "name": "IMPERIAL BEACH, PACIFIC OCEAN",
+    "lat": 32.5783,
+    "lng": -117.135
+  },
+  {
+    "id": "9410135",
+    "name": "South San Diego Bay",
+    "lat": 32.6291,
+    "lng": -117.1078
+  },
+  {
+    "id": "9410155",
+    "name": "Ballast Point",
+    "lat": 32.6867,
+    "lng": -117.233
+  },
+  {
+    "id": "9410170",
+    "name": "San Diego",
+    "lat": 32.715557,
+    "lng": -117.17667
+  },
+  {
+    "id": "9410179",
+    "name": "Ocean Beach, Point Loma",
+    "lat": 32.7483,
+    "lng": -117.255
+  },
+  {
+    "id": "9410196",
+    "name": "Mission Bay",
+    "lat": 32.7937,
+    "lng": -117.2238
+  },
+  {
+    "id": "9410230",
+    "name": "La Jolla",
+    "lat": 32.86689,
+    "lng": -117.25714
+  },
+  {
+    "id": "9410302",
+    "name": "SAN ELIJO LAGOON",
+    "lat": 33.0133,
+    "lng": -117.277
+  },
+  {
+    "id": "9410396",
+    "name": "OCEANSIDE HARBOR",
+    "lat": 33.21,
+    "lng": -117.395
+  },
+  {
+    "id": "9410580",
+    "name": "NEWPORT BEACH, NEWPORT BAY ENTRANCE",
+    "lat": 33.6033,
+    "lng": -117.883
+  },
+  {
+    "id": "9410650",
+    "name": "CABRILLO BEACH",
+    "lat": 33.7067,
+    "lng": -118.273
+  },
+  {
+    "id": "9410660",
+    "name": "Los Angeles",
+    "lat": 33.72,
+    "lng": -118.272
+  },
+  {
+    "id": "9410680",
+    "name": "LONG BEACH, TERMINAL ISLAND",
+    "lat": 33.7517,
+    "lng": -118.227
+  },
+  {
+    "id": "9410738",
+    "name": "KING HARBOR, SANTA MONICA BAY",
+    "lat": 33.8467,
+    "lng": -118.398
+  },
+  {
+    "id": "9410840",
+    "name": "Santa Monica",
+    "lat": 34.0083,
+    "lng": -118.5
+  },
+  {
+    "id": "9410962",
+    "name": "BECHERS BAY, SANTA ROSA ISLAND",
+    "lat": 34.0083,
+    "lng": -120.047
+  },
+  {
+    "id": "9410971",
+    "name": "PRISONERS HARBOR, SANTA CRUZ IS.",
+    "lat": 34.02,
+    "lng": -119.683
+  },
+  {
+    "id": "9411013",
+    "name": "MUGU LAGOON BRIDGE",
+    "lat": 34.1017,
+    "lng": -119.098
+  },
+  {
+    "id": "9411270",
+    "name": "RINCON ISLAND, PACIFIC OCEAN",
+    "lat": 34.3483,
+    "lng": -119.443
+  },
+  {
+    "id": "9411340",
+    "name": "Santa Barbara",
+    "lat": 34.40459,
+    "lng": -119.6925
+  },
+  {
+    "id": "9411399",
+    "name": "Gaviota State Park, Pacific Ocean",
+    "lat": 34.469387,
+    "lng": -120.2283
+  },
+  {
+    "id": "9411406",
+    "name": "Oil Platform Harvest",
+    "lat": 34.469166,
+    "lng": -120.681946
+  },
+  {
+    "id": "9412110",
+    "name": "Port San Luis",
+    "lat": 35.168888,
+    "lng": -120.754166
+  },
+  {
+    "id": "9412553",
+    "name": "SAN SIMEON",
+    "lat": 35.6417,
+    "lng": -121.188
+  },
+  {
+    "id": "9412802",
+    "name": "Mansfield Cone",
+    "lat": 35.949528,
+    "lng": -121.48194
+  },
+  {
+    "id": "9413450",
+    "name": "Monterey",
+    "lat": 36.60889,
+    "lng": -121.89139
+  },
+  {
+    "id": "9413616",
+    "name": "Moss Landing",
+    "lat": 36.8017,
+    "lng": -121.79
+  },
+  {
+    "id": "9413623",
+    "name": "ELKHORN SLOUGH, ENTRANCE BRIDGE",
+    "lat": 36.81,
+    "lng": -121.785
+  },
+  {
+    "id": "9413631",
+    "name": "Elkhorn Slough at Elkhorn",
+    "lat": 36.8183,
+    "lng": -121.747
+  },
+  {
+    "id": "9413643",
+    "name": "Tidal Creek, Elkhorn Slough",
+    "lat": 36.8333,
+    "lng": -121.745
+  },
+  {
+    "id": "9413651",
+    "name": "Kirby Park, Elkhorn Slough",
+    "lat": 36.8413,
+    "lng": -121.7453
+  },
+  {
+    "id": "9413663",
+    "name": "Elkhorn Slough Railroad Bridge",
+    "lat": 36.85667,
+    "lng": -121.755
+  },
+  {
+    "id": "9414131",
+    "name": "Pillar Point Harbor",
+    "lat": 37.5025,
+    "lng": -122.48217
+  },
+  {
+    "id": "9414290",
+    "name": "San Francisco",
+    "lat": 37.806305,
+    "lng": -122.46589
+  },
+  {
+    "id": "9414305",
+    "name": "NORTH POINT, PIER 41, S.F.BAY",
+    "lat": 37.81,
+    "lng": -122.413
+  },
+  {
+    "id": "9414317",
+    "name": "PIER 22 1/2, SAN FRANCISCO",
+    "lat": 37.79,
+    "lng": -122.387
+  },
+  {
+    "id": "9414358",
+    "name": "HUNTERS POINT, S.F. BAY",
+    "lat": 37.73,
+    "lng": -122.357
+  },
+  {
+    "id": "9414392",
+    "name": "OYSTER POINT MARINA, SAN FRANCISCO BAY",
+    "lat": 37.665,
+    "lng": -122.377
+  },
+  {
+    "id": "9414458",
+    "name": "San Mateo Bridge",
+    "lat": 37.58,
+    "lng": -122.253
+  },
+  {
+    "id": "9414501",
+    "name": "REDWOOD CREEK,C.M. NO. 8,S.F.BAY",
+    "lat": 37.5333,
+    "lng": -122.193
+  },
+  {
+    "id": "9414506",
+    "name": "NEWARK SLOUGH,S.F.BAY",
+    "lat": 37.5133,
+    "lng": -122.08
+  },
+  {
+    "id": "9414509",
+    "name": "Dumbarton Bridge",
+    "lat": 37.5067,
+    "lng": -122.115
+  },
+  {
+    "id": "9414510",
+    "name": "DUMBARTON RAILROAD BRIDGE",
+    "lat": 37.5,
+    "lng": -122.1
+  },
+  {
+    "id": "9414519",
+    "name": "MOWRY SLOUGH, SAN FRANCISCO BAY",
+    "lat": 37.4933,
+    "lng": -122.042
+  },
+  {
+    "id": "9414523",
+    "name": "Redwood City",
+    "lat": 37.506813,
+    "lng": -122.21191
+  },
+  {
+    "id": "9414525",
+    "name": "PALO ALTO YACHT HARBOR, S. F. BAY",
+    "lat": 37.4583,
+    "lng": -122.105
+  },
+  {
+    "id": "9414537",
+    "name": "PALO ALTO, CHANNEL  MARKER 8, S. F. BAY",
+    "lat": 37.4567,
+    "lng": -122.11
+  },
+  {
+    "id": "9414551",
+    "name": "GOLD STREET BRIDGE, ALVISO SLOUGH",
+    "lat": 37.4233,
+    "lng": -121.975
+  },
+  {
+    "id": "9414561",
+    "name": "COYOTE CREEK, TRIBUTARY #1, S. F. BAY",
+    "lat": 37.4467,
+    "lng": -121.963
+  },
+  {
+    "id": "9414575",
+    "name": "Coyote Creek",
+    "lat": 37.465,
+    "lng": -122.023
+  },
+  {
+    "id": "9414585",
+    "name": "UPPER COYOTE CREEK, TRIBUTARY 3",
+    "lat": 37.4617,
+    "lng": -121.953
+  },
+  {
+    "id": "9414589",
+    "name": "COYOTE CREEK, TRIBUTARY 2, S. F. BAY",
+    "lat": 37.46,
+    "lng": -121.953
+  },
+  {
+    "id": "9414609",
+    "name": "SOUTH BAY WRECK,S.F.BAY",
+    "lat": 37.5517,
+    "lng": -122.162
+  },
+  {
+    "id": "9414621",
+    "name": "COYOTE HILLS SLOUGH,S.F.BAY",
+    "lat": 37.5633,
+    "lng": -122.128
+  },
+  {
+    "id": "9414632",
+    "name": "ALAMEDA CREEK, SAN FRANCISCO BAY",
+    "lat": 37.595,
+    "lng": -122.145
+  },
+  {
+    "id": "9414637",
+    "name": "SAN MATEO BRIDGE,EAST END",
+    "lat": 37.6083,
+    "lng": -122.182
+  },
+  {
+    "id": "9414688",
+    "name": "San Leandro Marina",
+    "lat": 37.695,
+    "lng": -122.192
+  },
+  {
+    "id": "9414711",
+    "name": "OAKLAND AIRPORT, SAN FRANCISCO BAY",
+    "lat": 37.7317,
+    "lng": -122.208
+  },
+  {
+    "id": "9414746",
+    "name": "PARK STREET BRIDGE",
+    "lat": 37.7717,
+    "lng": -122.235
+  },
+  {
+    "id": "9414750",
+    "name": "Alameda",
+    "lat": 37.771954,
+    "lng": -122.30026
+  },
+  {
+    "id": "9414759",
+    "name": "HOLLY SUGAR REF.,TOM PAINE SL.",
+    "lat": 37.775,
+    "lng": -121.42
+  },
+  {
+    "id": "9414764",
+    "name": "Oakland Inner Harbor",
+    "lat": 37.795,
+    "lng": -122.282
+  },
+  {
+    "id": "9414767",
+    "name": "ALAMEDA NAS, NAVY FUEL PIER",
+    "lat": 37.7933,
+    "lng": -122.315
+  },
+  {
+    "id": "9414768",
+    "name": "MOSSDALE,SAN JOAQUIN RIVER",
+    "lat": 37.7867,
+    "lng": -121.313
+  },
+  {
+    "id": "9414777",
+    "name": "OAKLAND MIDDLE HARBOR, PIER 40",
+    "lat": 37.805,
+    "lng": -122.338
+  },
+  {
+    "id": "9414778",
+    "name": "NAGLEE BRIDGE,OLD RIVER",
+    "lat": 37.8033,
+    "lng": -121.448
+  },
+  {
+    "id": "9414779",
+    "name": "OAKLAND,MATSON WHARF,S.F.BAY",
+    "lat": 37.81,
+    "lng": -122.327
+  },
+  {
+    "id": "9414782",
+    "name": "YERBA BUENA ISLAND, SAN FRANCISCO BAY",
+    "lat": 37.81,
+    "lng": -122.36
+  },
+  {
+    "id": "9414785",
+    "name": "GRANT LINE CANAL BRDG.,OLD RIVER",
+    "lat": 37.82,
+    "lng": -121.447
+  },
+  {
+    "id": "9414794",
+    "name": "CLIFTON COURT FERRY,OLD RIVER",
+    "lat": 37.835,
+    "lng": -121.552
+  },
+  {
+    "id": "9414796",
+    "name": "GPS Buoy, San Francisco Bay",
+    "lat": 37.8333,
+    "lng": -122.397
+  },
+  {
+    "id": "9414806",
+    "name": "SAUSALITO, SAN FRANCISCO BAY",
+    "lat": 37.8467,
+    "lng": -122.477
+  },
+  {
+    "id": "9414811",
+    "name": "Bradmoor Island",
+    "lat": 38.1833,
+    "lng": -121.923
+  },
+  {
+    "id": "9414816",
+    "name": "BERKELEY,S.F.BAY",
+    "lat": 37.865,
+    "lng": -122.307
+  },
+  {
+    "id": "9414818",
+    "name": "ANGEL ISLAND, EAST GARRISON, S.F. BAY",
+    "lat": 37.8633,
+    "lng": -122.42
+  },
+  {
+    "id": "9414819",
+    "name": "SAUSALITO, COE DOCK, S.F. BAY",
+    "lat": 37.865,
+    "lng": -122.493
+  },
+  {
+    "id": "9414835",
+    "name": "BORDEN HIGHWAY BRIDGE, MIDDLE RIVER",
+    "lat": 37.8917,
+    "lng": -121.488
+  },
+  {
+    "id": "9414836",
+    "name": "BORDEN HWY BRIDGE,OLD RIVER",
+    "lat": 37.8833,
+    "lng": -121.577
+  },
+  {
+    "id": "9414837",
+    "name": "POINT CHAUNCEY, RICHARDSON BAY",
+    "lat": 37.8917,
+    "lng": -122.443
+  },
+  {
+    "id": "9414849",
+    "name": "RICHMOND INNER HARBOR, SAN FRANCISCO BAY",
+    "lat": 37.91,
+    "lng": -122.358
+  },
+  {
+    "id": "9414863",
+    "name": "Richmond",
+    "lat": 37.9283,
+    "lng": -122.4
+  },
+  {
+    "id": "9414866",
+    "name": "HOLT, WHISKEY SLOUGH",
+    "lat": 37.935,
+    "lng": -121.435
+  },
+  {
+    "id": "9414867",
+    "name": "BORDEN HIGHWAY BRIDGE, SAN JOAQUIN RIVER",
+    "lat": 37.9367,
+    "lng": -121.333
+  },
+  {
+    "id": "9414868",
+    "name": "ORWOOD,OLD RIVER",
+    "lat": 37.9383,
+    "lng": -121.56
+  },
+  {
+    "id": "9414873",
+    "name": "POINT SAN QUENTIN, SAN FRANCISCO BAY",
+    "lat": 37.945,
+    "lng": -122.475
+  },
+  {
+    "id": "9414874",
+    "name": "CORTE MADERA CREEK",
+    "lat": 37.9433,
+    "lng": -122.513
+  },
+  {
+    "id": "9414881",
+    "name": "POINT ORIENT",
+    "lat": 37.9583,
+    "lng": -122.425
+  },
+  {
+    "id": "9414883",
+    "name": "STOCKTON,SAN JOAQUIN RIVER",
+    "lat": 37.9583,
+    "lng": -121.29
+  },
+  {
+    "id": "9414958",
+    "name": "Bolinas, Bolinas Lagoon",
+    "lat": 37.908,
+    "lng": -122.6785
+  },
+  {
+    "id": "9415004",
+    "name": "ELDORADO PUMP, SAN JOAQUIN RIVER",
+    "lat": 37.985,
+    "lng": -121.392
+  },
+  {
+    "id": "9415009",
+    "name": "POINT SAN PEDRO, SAN FRANCISCO BAY",
+    "lat": 37.9933,
+    "lng": -122.447
+  },
+  {
+    "id": "9415020",
+    "name": "Point Reyes",
+    "lat": 37.994167,
+    "lng": -122.97361
+  },
+  {
+    "id": "9415021",
+    "name": "BLACKSLOUGH LANDING, SAN JOAQUIN RIVER",
+    "lat": 37.995,
+    "lng": -121.42
+  },
+  {
+    "id": "9415027",
+    "name": "BACON ISLAND,MIDDLE RIVER",
+    "lat": 38.0033,
+    "lng": -121.523
+  },
+  {
+    "id": "9415052",
+    "name": "GALLINAS, GALLINAS CREEK",
+    "lat": 38.015,
+    "lng": -122.503
+  },
+  {
+    "id": "9415053",
+    "name": "DUTCH SLOUGH",
+    "lat": 38.0117,
+    "lng": -121.638
+  },
+  {
+    "id": "9415056",
+    "name": "Pinole Point, San Pablo Bay",
+    "lat": 38.015,
+    "lng": -122.363
+  },
+  {
+    "id": "9415064",
+    "name": "ANTIOCH, SAN JOAQUIN RIVER",
+    "lat": 38.02,
+    "lng": -121.815
+  },
+  {
+    "id": "9415074",
+    "name": "HERCULES WHARF",
+    "lat": 38.0233,
+    "lng": -122.292
+  },
+  {
+    "id": "9415096",
+    "name": "PITTSBURG, NEW YORK SLOUGH, SUISUN BAY",
+    "lat": 38.0367,
+    "lng": -121.88
+  },
+  {
+    "id": "9415102",
+    "name": "Martinez-Amorco Pier",
+    "lat": 38.034637,
+    "lng": -122.12519
+  },
+  {
+    "id": "9415105",
+    "name": "WARDS ISLAND, SAN JOAQUIN RIVER",
+    "lat": 38.05,
+    "lng": -121.497
+  },
+  {
+    "id": "9415111",
+    "name": "BENICIA, CARQUINEZ STRAIT",
+    "lat": 38.0433,
+    "lng": -122.13
+  },
+  {
+    "id": "9415112",
+    "name": "MALLARD ISLAND, SUISUN BAY",
+    "lat": 38.0433,
+    "lng": -121.918
+  },
+  {
+    "id": "9415117",
+    "name": "BISHOP CUT, DISSAPOINTMENT SLOUGH",
+    "lat": 38.045,
+    "lng": -121.42
+  },
+  {
+    "id": "9415124",
+    "name": "Hamilton AFB (Outside)",
+    "lat": 38.0483,
+    "lng": -122.498
+  },
+  {
+    "id": "9415126",
+    "name": "Hamilton AFB (Inside)",
+    "lat": 38.0483,
+    "lng": -122.498
+  },
+  {
+    "id": "9415143",
+    "name": "CROCKETT, CARQUINEZ STRAIT",
+    "lat": 38.0583,
+    "lng": -122.223
+  },
+  {
+    "id": "9415144",
+    "name": "Port Chicago",
+    "lat": 38.056,
+    "lng": -122.0395
+  },
+  {
+    "id": "9415145",
+    "name": "JERSEY ISLAND, FALSE RIVER",
+    "lat": 38.055,
+    "lng": -121.657
+  },
+  {
+    "id": "9415149",
+    "name": "PRISONERS POINT, SAN JOAQUIN RIVER",
+    "lat": 38.0617,
+    "lng": -121.555
+  },
+  {
+    "id": "9415151",
+    "name": "VENICE ISLAND, VENICE CUT",
+    "lat": 38.0567,
+    "lng": -121.53
+  },
+  {
+    "id": "9415165",
+    "name": "MARE ISLAND STRAIT",
+    "lat": 38.1117,
+    "lng": -122.273
+  },
+  {
+    "id": "9415176",
+    "name": "COLLINSVILLE,SACRAMENTO RIVER",
+    "lat": 38.0733,
+    "lng": -121.848
+  },
+  {
+    "id": "9415187",
+    "name": "SAN PABLO BAY",
+    "lat": 38.08,
+    "lng": -122.462
+  },
+  {
+    "id": "9415193",
+    "name": "THREE MILE SLOUGH,SAN JOAQUIN R.",
+    "lat": 38.0867,
+    "lng": -121.685
+  },
+  {
+    "id": "9415198",
+    "name": "POTATO PT,VENICE IS,SN JQN R",
+    "lat": 38.08,
+    "lng": -121.568
+  },
+  {
+    "id": "9415205",
+    "name": "MONTEZUMA SLOUGH, SUISUN BAY",
+    "lat": 38.0767,
+    "lng": -121.885
+  },
+  {
+    "id": "9415218",
+    "name": "Mare Island",
+    "lat": 38.07,
+    "lng": -122.25
+  },
+  {
+    "id": "9415228",
+    "name": "INVERNESS, TOMALES BAY",
+    "lat": 38.1133,
+    "lng": -122.868
+  },
+  {
+    "id": "9415229",
+    "name": "KORTHS HBR, SAN JOAQUIN RIVER",
+    "lat": 38.0976,
+    "lng": -121.5684
+  },
+  {
+    "id": "9415236",
+    "name": "THREE MILE SLOUGH,SACRAMENTO R.",
+    "lat": 38.1067,
+    "lng": -121.7
+  },
+  {
+    "id": "9415252",
+    "name": "PETALUMA RIVER ENTRANCE",
+    "lat": 38.115307,
+    "lng": -122.50567
+  },
+  {
+    "id": "9415257",
+    "name": "TERMINOUS,MOKELUMNE RIVER",
+    "lat": 38.11,
+    "lng": -121.498
+  },
+  {
+    "id": "9415265",
+    "name": "SUISUN SLOUGH ENTRANCE",
+    "lat": 38.1283,
+    "lng": -122.073
+  },
+  {
+    "id": "9415266",
+    "name": "PIERCE HARBOR,GOODYEAR SLOUGH",
+    "lat": 38.1267,
+    "lng": -122.1
+  },
+  {
+    "id": "9415287",
+    "name": "GEORGIANA SLOUGH, MOKELUMNE RIVER",
+    "lat": 38.125,
+    "lng": -121.578
+  },
+  {
+    "id": "9415307",
+    "name": "MEINS LANDING, MONTEZUMA SLOUGH",
+    "lat": 38.1367,
+    "lng": -121.907
+  },
+  {
+    "id": "9415316",
+    "name": "Rio Vista",
+    "lat": 38.145,
+    "lng": -121.692
+  },
+  {
+    "id": "9415320",
+    "name": "REYNOLDS, TOMALES BAY",
+    "lat": 38.1467,
+    "lng": -122.883
+  },
+  {
+    "id": "9415338",
+    "name": "Sonoma Creek Entrance",
+    "lat": 38.1567,
+    "lng": -122.407
+  },
+  {
+    "id": "9415344",
+    "name": "HOG IS.,SAN ANTONIO CREEK",
+    "lat": 38.1617,
+    "lng": -122.55
+  },
+  {
+    "id": "9415352",
+    "name": "ISLETON,SACRAMENTO RIVER",
+    "lat": 38.1633,
+    "lng": -121.608
+  },
+  {
+    "id": "9415379",
+    "name": "JOICE ISLAND, SUISUN SLOUGH",
+    "lat": 38.18,
+    "lng": -122.045
+  },
+  {
+    "id": "9415396",
+    "name": "BLAKE LANDING,TOMALES BAY",
+    "lat": 38.19,
+    "lng": -122.917
+  },
+  {
+    "id": "9415402",
+    "name": "MONTEZUMA SLOUGH BRIDGE",
+    "lat": 38.1867,
+    "lng": -121.98
+  },
+  {
+    "id": "9415414",
+    "name": "STEAMBOAT SLOUGH",
+    "lat": 38.1833,
+    "lng": -121.655
+  },
+  {
+    "id": "9415415",
+    "name": "EDGERLEY ISLAND, NAPA RIVER",
+    "lat": 38.1917,
+    "lng": -122.312
+  },
+  {
+    "id": "9415423",
+    "name": "LAKEVILLE, PETALUMA RIVER",
+    "lat": 38.1983,
+    "lng": -122.547
+  },
+  {
+    "id": "9415438",
+    "name": "SKAGGS ISLAND, HUDEMAN SLOUGH",
+    "lat": 38.205,
+    "lng": -122.373
+  },
+  {
+    "id": "9415446",
+    "name": "BRAZOS DRAWBRIDGE,NAPA RIVER",
+    "lat": 38.21,
+    "lng": -122.307
+  },
+  {
+    "id": "9415447",
+    "name": "WINGO, SONOMA CREEK",
+    "lat": 38.21,
+    "lng": -122.427
+  },
+  {
+    "id": "9415477",
+    "name": "SAND POINT, TOMALES BAY",
+    "lat": 38.2317,
+    "lng": -122.968
+  },
+  {
+    "id": "9415478",
+    "name": "NEW HOPE BRIDGE, MOKELUMNE RIVER",
+    "lat": 38.2267,
+    "lng": -121.49
+  },
+  {
+    "id": "9415479",
+    "name": "RYER ISLAND, CACHE SLOUGH",
+    "lat": 38.2267,
+    "lng": -121.673
+  },
+  {
+    "id": "9415489",
+    "name": "WALNUT GROVE,SACRAMENTO RIVER",
+    "lat": 38.24,
+    "lng": -121.522
+  },
+  {
+    "id": "9415498",
+    "name": "SUISUN CITY, SUISUN SLOUGH",
+    "lat": 38.2367,
+    "lng": -122.03
+  },
+  {
+    "id": "9415522",
+    "name": "BENSON FERRY BRIDGE,MOKELUMNE R.",
+    "lat": 38.2567,
+    "lng": -121.438
+  },
+  {
+    "id": "9415565",
+    "name": "SNODGRASS SLOUGH",
+    "lat": 38.2767,
+    "lng": -121.495
+  },
+  {
+    "id": "9415584",
+    "name": "Petaluma River, Upper Drawbridge",
+    "lat": 38.2283,
+    "lng": -122.613
+  },
+  {
+    "id": "9415623",
+    "name": "NAPA, NAPA RIVER",
+    "lat": 38.2983,
+    "lng": -122.28
+  },
+  {
+    "id": "9415846",
+    "name": "CLARKSBURG,SACRAMENTO RIVER",
+    "lat": 38.4167,
+    "lng": -121.523
+  },
+  {
+    "id": "9416131",
+    "name": "Port of West Sacramento, Washington Lake",
+    "lat": 38.56225,
+    "lng": -121.5463
+  },
+  {
+    "id": "9416174",
+    "name": "SACRAMENTO, SACRAMENTO RIVER",
+    "lat": 38.58,
+    "lng": -121.507
+  },
+  {
+    "id": "9416409",
+    "name": "Green Cove",
+    "lat": 38.704334,
+    "lng": -123.44939
+  },
+  {
+    "id": "9416841",
+    "name": "Arena Cove",
+    "lat": 38.914555,
+    "lng": -123.71108
+  },
+  {
+    "id": "9417426",
+    "name": "NOYO HARBOR",
+    "lat": 39.425777,
+    "lng": -123.805115
+  },
+  {
+    "id": "9418024",
+    "name": "SHELTER COVE",
+    "lat": 40.025,
+    "lng": -124.058
+  },
+  {
+    "id": "9418637",
+    "name": "Cockrobin Island Bridge",
+    "lat": 40.6372,
+    "lng": -124.2822
+  },
+  {
+    "id": "9418686",
+    "name": "HOOKTON SLOUGH,HUMBOLDT BAY",
+    "lat": 40.6867,
+    "lng": -124.222
+  },
+  {
+    "id": "9418723",
+    "name": "FIELDS LANDING, HUMBOLDT BAY",
+    "lat": 40.7233,
+    "lng": -124.222
+  },
+  {
+    "id": "9418739",
+    "name": "RED BLUFF, HUMBOLDT BAY",
+    "lat": 40.74,
+    "lng": -124.212
+  },
+  {
+    "id": "9418767",
+    "name": "North Spit",
+    "lat": 40.766907,
+    "lng": -124.21735
+  },
+  {
+    "id": "9418778",
+    "name": "BUCKSPORT, HUMBOLDT BAY",
+    "lat": 40.7783,
+    "lng": -124.197
+  },
+  {
+    "id": "9418799",
+    "name": "FRESHWATER SLOUGH, HUMBOLDT BAY",
+    "lat": 40.7983,
+    "lng": -124.12
+  },
+  {
+    "id": "9418801",
+    "name": "Eureka",
+    "lat": 40.8067,
+    "lng": -124.167
+  },
+  {
+    "id": "9418802",
+    "name": "EUREKA SLOUGH, HUMBOLDT BAY",
+    "lat": 40.8067,
+    "lng": -124.142
+  },
+  {
+    "id": "9418817",
+    "name": "Samoa, Humboldt Bay",
+    "lat": 40.8267,
+    "lng": -124.18
+  },
+  {
+    "id": "9418865",
+    "name": "MAD RIVER SLOUGH, ARCATA BAY",
+    "lat": 40.865,
+    "lng": -124.148
+  },
+  {
+    "id": "9418983",
+    "name": "UPPER MAD RIVER SLOUGH",
+    "lat": 40.8983,
+    "lng": -124.135
+  },
+  {
+    "id": "9419059",
+    "name": "TRINIDAD HARBOR",
+    "lat": 41.0567,
+    "lng": -124.147
+  },
+  {
+    "id": "9419551",
+    "name": "Requa Dock",
+    "lat": 41.545,
+    "lng": -124.07
+  },
+  {
+    "id": "9419750",
+    "name": "Crescent City",
+    "lat": 41.74561,
+    "lng": -124.18439
+  },
+  {
+    "id": "9419945",
+    "name": "Pyramid Point",
+    "lat": 41.94525,
+    "lng": -124.20092
+  }
+]
